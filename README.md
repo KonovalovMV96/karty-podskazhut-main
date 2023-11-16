@@ -1,0 +1,1 @@
+https://github.com/KonovalovMV96/karty-podskazhut-main.git
